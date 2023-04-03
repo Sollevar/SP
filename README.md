@@ -16,3 +16,7 @@
   import socket
   import sys
 ```
+### **Лабораторная работа №3** ***Get Запрос***
+```python
+ import requests
+```
