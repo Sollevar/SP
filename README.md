@@ -20,3 +20,8 @@
 ```python
  import requests
 ```
+### **Лабораторная работа №4** ***HTML Парсинг***
+```python
+ import requests
+ from bs4 import BeautifulSoup
+```
