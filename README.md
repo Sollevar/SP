@@ -1,7 +1,8 @@
 # ***Сетевое программирование***
 ## Информация о библиотеках используемых в работах
+---
 
-### **Лабораторная работа №1**
+### **Лабораторная работа №1** ***IP адрес***
 ```python
   import socket
   import  uuid
@@ -25,3 +26,9 @@
  import requests
  from bs4 import BeautifulSoup
 ```
+### **Лабораторная работа №5** ***FTP Сервер***
+```python
+from ftplib import FTP
+import os
+```
+---
