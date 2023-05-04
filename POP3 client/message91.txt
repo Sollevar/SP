@@ -1,0 +1,25 @@
+Delivered-To: sollevar@mail.ru
+Return-path: <robot@mlrmr.com>
+Received-SPF: pass (mx212.i.mail.ru: domain of mlrmr.com designates 178.22.89.175 as permitted sender) client-ip=178.22.89.175; envelope-from=robot@mlrmr.com; helo=mx6.mlrmr.com;
+Received: from mx6.mlrmr.com ([178.22.89.175]:44404)
+	by mx212.i.mail.ru with esmtp (envelope-from <robot@mlrmr.com>)
+	id 1pr5gE-007JEs-UK
+	for sollevar@mail.ru; Tue, 25 Apr 2023 02:33:11 +0300
+Content-Type: multipart/alternative;
+ boundary="===============7397272309988723761=="
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=id.mail.ru; s=mlr;
+	t=1682379190; x=1682465710;
+	bh=B8fCbQPFHa0kyV9/4I5uTYZafaeL5tFoIfGSjXtCyg0=;
+	h=Content-Type:Subject:From:To:Date:From:Subject:Content-Type:
+	 Content-Transfer-Encoding:To:Cc:Date;
+	b=fa9zKvkwcKDRKuW5jnAdjtonGw46/I8o8UJefRxnQSOWvcIoiNuxitZ/Q7XoG7tQi
+	 BUjgrtfxL7hDk6Sp+TefFVBcoudlL7Qjptfci+ar+qG6ffj6wwTs4nz+WrrzlQ2zUl
+	 Uk8XVPjFfXqm7FjdAKEOvJbkGlThDjiRKTzYcfDE=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mlrmr.com; s=mlr;
+	t=1682379190; bh=B8fCbQPFHa0kyV9/4I5uTYZafaeL5tFoIfGSjXtCyg0=;
+	h=Subject:From:To:Date;
+	b=AGjn/h90SPNJgKEjPV9FCLdOZYY3vrTzerQbvcuLQstQym2HCFOoe8MPaw2LiieyF
+	 DDlzMbVzXWwZvuZCxJ00/715ahQ21OlefO736MWcBItOp1n+8vGTJ4eEkFLALA8/nD
+	 X83aOWlyMZZCtvnjBY1IzrdOHvaG7y0jsNmU+qiE=
+MIME-Version: 1.0
+Subject: =?utf-8?b?0JLRhdC+0LQg0YEg0L3Qv
