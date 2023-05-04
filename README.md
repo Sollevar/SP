@@ -31,4 +31,9 @@
 from ftplib import FTP
 import os
 ```
+### **Курсовая работа POP3-Client**
+```python
+import socket
+import ssl
+```
 ---
